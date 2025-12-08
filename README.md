@@ -15,11 +15,16 @@ Languages:
 - [Personal Website](https://github.com/Voltorik/voltorik.github.io) - Personal website where I periodically change my mind about what I actually want the thing to be. Longterm goal is for it to be a centralized repository of all my interests, projects, thoughts, ideas, or otherwise.
 - [Minecraft world save mover script](https://github.com/Voltorik/minecraft_WorldSave_Mover) - I wanted to be able to copy a minecraft world from a server I was hosting to my local minecraft instance so they were synced and I could mess with a currently updated version of the world without needing to boot up the server. It's not much but it's mine lol.
 
+## What I'm learning:
+- Backend and API design
+- Testing frameworks for unit and performance testing
+- Systems-level thinking
+- Working on Portfolio projects
 
 ## Projects in progress:
 - Job tracker API: Wanting to build a small tool for myself to systematically track, update, and plot job applications
 - Personal website (WIP and have more plans to fully develop this)
 
-
+## Future endeavours:
 Future interests include systems engineering, robotics, and embedded systems*
 *depends on me not being lazy and building some more things 
