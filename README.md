@@ -1,6 +1,13 @@
 ## About me... I'm a SWE! (kinda obvious huh haha)
 Currently learning and working on backend related tooling, automation, and a bit of web development
 
+## What I do
+I work primarily with Python and JavaScript building backend tools, services, and internal applications.
+
+Languages:
+- Python
+- JavaScript (NodeJS)
+- Also have worked a bit with Java & C++
 
 ## Here's a few things I've made:
 - [Personal Site backend proxy](https://github.com/Voltorik/Volt_blogSite_backend) - I needed a way to call my substack RSS feed with CORS for displaying on my site, so I built a small backend proxy that I hosted on Render as an intermediatary point.
@@ -11,7 +18,7 @@ Currently learning and working on backend related tooling, automation, and a bit
 
 ## Projects in progress:
 - Job tracker API: Wanting to build a small tool for myself to systematically track, update, and plot job applications
-- Personal website (While it technically exists, it needs a lot of work for me to consider it "developed")
+- Personal website (WIP and have more plans to fully develop this)
 
 
 Future interests include systems engineering, robotics, and embedded systems*
