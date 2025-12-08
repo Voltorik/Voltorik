@@ -1,5 +1,6 @@
-## Hey there! I'm a SWE focused on backend developemnt and automtion. 
+## Hey there! I'm a SWE focused on backend development and automation. 
 _(The SWE bit is kinda obvious huh haha)_
+
 Currently building skills in backend development, automation, and lightweight web tooling.
 
 ## What I do
