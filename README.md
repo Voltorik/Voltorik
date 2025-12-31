@@ -1,6 +1,6 @@
-## Hello there, I'm a software engineer focused on backend systems, internal tooling, and automation. 
+# What I do
+__Hello there, I'm a software engineer focused on backend systems, internal tooling, and automation.__
 
-## What I do
 I primarily work in Python and JavaScript building reliable and performance-oriented tooling, with experience refactoring and maintaining long-lived internal systems in enterprise environments.
 
 Languages I use the most:
