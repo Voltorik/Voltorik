@@ -1,5 +1,5 @@
 # What I do
-__Hello there, I'm a software engineer focused on backend systems, internal tooling, and automation.__
+__Hello there, I'm a software engineer focused on Python backend development, API integrations, and performance-oriented system design.__
 
 I primarily work in Python and JavaScript building reliable and performance-oriented tooling, with experience refactoring and maintaining long-lived internal systems in enterprise environments.
 
@@ -22,5 +22,5 @@ Languages I've experimented with:
 - Testing frameworks for unit and performance testing
 - Systems-level thinking
 
-## Future endeavours:
-Future topics I'd like to explore include systems engineering, embedded systems, robotics, and game engines.
+
+Long-term interests include systems programming and performance engineering.
