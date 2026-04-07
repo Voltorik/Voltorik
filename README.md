@@ -1,26 +1,14 @@
-# What I do
-__Hello there, I'm a software engineer focused on Python backend development, API integrations, and performance-oriented system design.__
+Software engineer focused on internal backend systems, API integrations, and performance-minded tooling.
 
-I primarily work in Python and JavaScript building reliable and performance-oriented tooling, with experience refactoring and maintaining long-lived internal systems in enterprise environments.
+My professional work has centered on improving long-lived Python services in production environments, especially around data synchronization, reliability, and maintainability. I’m most interested in backend systems, internal tools, and software that sits close to real constraints.
 
-Languages I use the most:
-- **Python**
-- **JavaScript (NodeJS)**
+## Current focus
+- Python backend and service design
+- API integrations and data workflows
+- Testing, reliability, and maintainability
+- Building stronger systems/tooling-oriented portfolio projects
 
-Languages I've experimented with:
-- Java
-- C++
-
-## Here's a few things I've made:
+## Selected projects
 - [Personal Site backend proxy](https://github.com/Voltorik/Volt_blogSite_backend) - Backend proxy hosted via Render to safely deliver RSS data to the client under browser security constraints.
 - [Twitter Post to Markdown Convertor](https://github.com/Voltorik/TwitterPostToMarkdown_Convertor) - Utility to extract structured content from dynamically rendered Twitter pages and persist it as Markdown using Selenium.
-- [Personal Website](https://github.com/Voltorik/voltorik.github.io) - Continuously iterative centralized personal repository of my interests, projects, thoughts, and ideas. 
 - [Minecraft world save mover script](https://github.com/Voltorik/minecraft_WorldSave_Mover) - File synchronization utility to support local iteration against live multiplayer server state.
-
-## Current areas of focus:
-- Backend and API design
-- Testing frameworks for unit and performance testing
-- Systems-level thinking
-
-
-Long-term interests include systems programming and performance engineering.
