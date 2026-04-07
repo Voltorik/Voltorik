@@ -5,8 +5,8 @@ My professional work has centered on improving long-lived Python services in pro
 ## Current focus
 - Python backend and service design
 - API integrations and data workflows
-- Testing, reliability, and maintainability
-- Building stronger systems/tooling-oriented portfolio projects
+- Backend services, reliability, and well-structured internal tools
+
 
 ## Selected projects
 - [Personal Site backend proxy](https://github.com/Voltorik/Volt_blogSite_backend) - Backend proxy hosted via Render to safely deliver RSS data to the client under browser security constraints.
